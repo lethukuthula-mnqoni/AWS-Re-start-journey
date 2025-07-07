@@ -1,8 +1,8 @@
 
 
-###Task 1: Launching your EC2 instance
+Task 1: Launching your EC2 instance
 
-Step 1: Naming your EC2 instance
+Step 1: Naming the EC2 instance
 Step 2: Choosing an Amazon Machine Image (AMI) 
 Step 3: Choosing an instance type
 Step 4: Configuring a key pair
@@ -11,7 +11,7 @@ Step 6: Adding storage
 Step 7: Configuring advanced details 
 Step 8: Launching an EC2 instance
 
-###Task 2: Monitor Your Instance
-Task 3: Update Your Security Group and Access the Web Server
-Task 4: Resize Your Instance: Instance Type and EBS Volume
+Task 2: Monitor Your Instance
+Task 3: Update a Security Group and Access the Web Server
+Task 4: Resize the Instance: Instance Type and EBS Volume
 
