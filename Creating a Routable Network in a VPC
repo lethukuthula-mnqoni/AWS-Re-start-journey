@@ -1,0 +1,18 @@
+ Creating a Routable Network in a VPC
+
+What I Learned
+In this lab, I learned how to build a custom Virtual Private Cloud (VPC) and connect it to the internet using an Internet Gateway. I also practiced configuring a route table, security group, and network access control list (NACL). Finally, I launched an EC2 instance into this network and tested internet access by using the `ping` command.
+
+What I Did Steps 
+
+1. Created a new VPC with a custom IP range
+2. Created and attached an Internet Gateway to the VPC
+3. Created a public subnet and associated it with a route table
+4. Updated the route table to allow internet traffic (0.0.0.0/0)
+5. Created a Security Group to allow SSH  and ICMP 
+6. Created a Network ACL and adjusted rules to allow inbound/outbound traffic
+7. Launched an EC2 instance inside the public subnet
+8. Connected to the EC2 instance and used the `ping` command to verify internet access
+
+Lab Completion  
+The lab was completed successfully after I used the `ping` command from the EC2 instance and received replies, confirming that the network setup allows internet access.
