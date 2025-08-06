@@ -1,0 +1,13 @@
+ Creating an S3 bucket
+
+ What I Learned
+In this lab, I learned how to create an Amazon S3 bucket using the AWS Management Console. I also learned about naming rules, regions, and basic S3 settings like versioning and access permissions.
+
+ What I Did
+- Logged into the AWS Console
+- Opened the S3 service
+- Clicked on “Create bucket”
+- Gave the bucket a  name and selected a region
+- Left default settings and created the bucket
+
+
