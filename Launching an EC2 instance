@@ -10,7 +10,7 @@ Step 5: Configuring the network settings
 Step 6: Adding storage
 Step 7: Configuring advanced details 
 Step 8: Launching an EC2 instance
-
+![image alt](https://github.com/lethukuthula-mnqoni/AWS-Re-start-journey/blob/f7b9d4d000fcfe6b41475c886332a3374c163495/EC2%20launch.png)
 Task 2: Monitor Your Instance
 Task 3: Update a Security Group and Access the Web Server
 Task 4: Resize the Instance: Instance Type and EBS Volume
