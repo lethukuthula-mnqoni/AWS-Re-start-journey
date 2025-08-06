@@ -1,0 +1,17 @@
+ Connecting EC2 to Amazon Aurora
+
+What I Learned
+This lab helped me understand how to use Amazon Aurora, a fully managed database service by AWS. I also learned how to securely connect an EC2 instance to a database within the same VPC. By the end of the lab, I was able to query the database from the EC2 instance using the MySQL command-line tool.
+
+ What I Did (Steps Overview)
+
+1. Launched an Amazon Aurora MySQL-compatible DB instance in a VPC
+2. Ensured that the DB subnet group and security groups allowed traffic from the EC2 instance
+3. Logged into a pre-created Amazon EC2 instance using SSH
+4. Installed MySQL client on the EC2 instance (if not already installed)
+5. Connected to the Aurora instance using endpoint details
+6. Ran SQL queries to test the database connection
+
+
+Lab Completion  
+This lab was completed successfully when I was able to connect to the Amazon Aurora instance from the EC2 instance and run queries using the MySQL client.
