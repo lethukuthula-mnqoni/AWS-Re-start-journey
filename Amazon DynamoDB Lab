@@ -1,0 +1,20 @@
+Working with Amazon DynamoDB
+
+ Overview
+
+In this lab, I learned how to use Amazon DynamoDB, which is a fully managed NoSQL database service provided by AWS. It is designed for fast and flexible performance with key-value and document data models. I used the AWS Console to create, insert, query, and delete data in a DynamoDB table.
+
+ What I Did 
+
+1. Opened the DynamoDB service in the AWS Console
+2. Created a new table with a primary key
+3. Used the **Items** tab to insert sample data (key-value pairs)
+4. Queried the table by specifying the key to retrieve matching items
+5. Deleted the table after finishing the queries
+
+Lab Completion
+
+This lab was successfully completed when I was able to:
+- Create a working DynamoDB table
+- Enter and query data using the AWS Console
+- Delete the table 
