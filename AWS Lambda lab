@@ -1,0 +1,21 @@
+ AWS Lambda, IAM, and CloudWatch Integration
+
+ Overview
+
+In this lab, I explored how to work with AWS Lambda functions and connect them to other AWS services. I learned how IAM policies control what Lambda can access, how to handle external dependencies using Lambda layers, and how to run and monitor scheduled functions.
+
+Objectives
+
+By completing this lab I was able to
+
+ Understand which IAM policy permissions are needed for Lambda to access other AWS services
+ Create and attach a Lambda layer for external library dependencies
+ Build Lambda functions that extract data from a database and send reports to a user
+ Deploy a Lambda function that is triggered on a schedule and invokes another function
+ Use Amazon CloudWatch Logs to troubleshoot and monitor Lambda activity
+
+ What I Did 
+1. Reviewed and applied IAM policies to give Lambda permissions to access services like Amazon RDS and Amazon SNS
+2. Created a Lambda layer to add an external Python library 
+3. Wrote a Lambda function that reads from a database and prepares a report
+4. Set up a second L
