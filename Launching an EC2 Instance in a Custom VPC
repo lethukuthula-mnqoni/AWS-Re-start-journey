@@ -1,0 +1,23 @@
+ Launching an EC2 Instance in a Custom VPC
+
+After completing this lab, I was able to:
+
+- Create a Virtual Private Cloud (VPC)
+- Create subnets within the VPC
+- Configure a Security Group
+- Launch an Amazon EC2 instance into the VPC
+
+ What I Learned
+
+In this lab, I learned how to manually create a custom VPC environment using the AWS Console. I created subnets, set up networking rules using a security group, and launched an EC2 instance into the VPC. This helped me understand the basic networking structure in AWS.
+
+
+What I Did Steps 
+
+1. Created a new VPC with a custom IP range (CIDR block)
+2. Created two subnets in different availability zones (AZs)
+3. Configured a security group to allow SSH (port 22)
+4. Launched an EC2 instance and placed it inside one of the custom subnets
+5. Verified that the EC2 instance launched successfully and was accessible via SSH
+  
+This lab was successfully completed after launching the EC2 instance inside the custom VPC and verifying that it was running and accessible.
