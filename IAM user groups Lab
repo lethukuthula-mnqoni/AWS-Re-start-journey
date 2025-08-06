@@ -1,0 +1,18 @@
+  IAM User Groups and Policies
+ Overview
+
+In this lab, I explored how to manage access and security in AWS using Identity and Access Management (IAM). IAM allows you to control who can access your AWS resources, and what actions they can take. I learned how to apply password policies, assign users to groups, and observe how permissions affect access.
+
+ What I Did 
+
+1. Navigated to the IAM service in the AWS Console
+2. Created a password policy to enforce security standards
+3. Reviewed pre-created IAM users and groups
+4. Inspected the policies attached to different IAM groups
+5. Assigned users to the appropriate groups
+6. Logged in using the IAM sign-in URL to test user access
+7. Observed how IAM policies affected what services the user could or could not use.
+
+Lab Completion
+
+This lab was successfully completed after testing access through IAM login using the IAM sign-in URL and confirming that policies applied to user groups controlled what services the user could access. I now understand how IAM can be used to manage user roles, permissions, and enforce security standards.
